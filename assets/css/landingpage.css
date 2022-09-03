@@ -70,6 +70,7 @@ div a {
     .buttons{
         width: 145px;
         height: 58px;
+        overflow: hidden;
     }
     
 }
